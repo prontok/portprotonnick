@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=portproton
+Name=PortProton
+Icon=portproton
+Categories=Game

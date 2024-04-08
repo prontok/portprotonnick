@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+	<id>ru.linux-gaming.PortProton</id>
+	<metadata_license>MIT</metadata_license>
+	<project_license>MIT</project_license>
+	<name>PortProton</name>
+	<summary>A program for running Windows games and applications in a Linux environment</summary>
+	<description>
+		<p>Used when you need to use a Windows program on your Linux PC.</p>
+	</description>
+	<launchable type="desktop-id">ru.linux-gaming.PortProton.desktop</launchable>
+	<url type="homepage">https://linux-gaming.ru/</url>
+	<provides>
+		<id>PortProton.desktop</id>
+	</provides>
+</component>
